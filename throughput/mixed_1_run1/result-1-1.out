@@ -1,0 +1,15 @@
+[1441195172.255321] [node017:22764:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1890.19
+[1441195172.260612] [node017:22764:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC thread 0 of 1 on node017 (pshm node 0 of 1, process 0 of 1, pid=22764)
+0/1 - htable initialized
+0/1 - table size: 1073741824 bytes (1024 MB)
+0/1 - total number of buckets: 134217728
+0/1 - block size: 1073741824 (1024 MB)
+0/1 - number of buckets in block: 134217728
+0/1 - number of blocks: 1
+0/1 - Performed a throughput benchmark:
+0/1 - Performed 2000000 find-or-put operations with random values from [0,...,1299999]
+0/1 - Finds: 979197 (0.489598), Inserts: 1020803 (0.510401), Errors: 0 (0)
+0/1 - Execution time: 0.004037 seconds
+0/1 - Throughput: 4.95417E+08 ops/sec
+[1441195172.239683] [node017:22719:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1890.19

@@ -1,0 +1,39 @@
+[1441206099.297859] [node017:27758:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1691.34
+[1441206099.303391] [node017:27758:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1441206099.503309] [node019:20608:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1596.66
+[1441206099.506833] [node019:20608:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1441206099.495758] [node018:25126:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1496.72
+[1441206099.501577] [node018:25126:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1441206099.503242] [node020:19342:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1498.03
+[1441206099.508753] [node020:19342:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC thread 0 of 4 on node017 (pshm node 0 of 4, process 0 of 4, pid=27758)
+UPCR: UPC thread 1 of 4 on node018 (pshm node 1 of 4, process 1 of 4, pid=25126)
+UPCR: UPC thread 3 of 4 on node020 (pshm node 3 of 4, process 3 of 4, pid=19342)
+UPCR: UPC thread 2 of 4 on node019 (pshm node 2 of 4, process 2 of 4, pid=20608)
+0/4 - htable initialized
+0/4 - table size: 4294967296 bytes (4096 MB)
+0/4 - total number of buckets: 536870912
+0/4 - block size: 1073741824 (1024 MB)
+0/4 - number of buckets in block: 134217728
+0/4 - number of blocks: 4
+1/4 - Performed a throughput benchmark:
+1/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+1/4 - Finds: 1601850 (0.800925), Inserts: 398150 (0.199075), Errors: 0 (0)
+1/4 - Execution time: 3.93969 seconds
+1/4 - Throughput: 507654 ops/sec
+0/4 - Performed a throughput benchmark:
+0/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+0/4 - Finds: 1603116 (0.801558), Inserts: 396884 (0.198442), Errors: 0 (0)
+0/4 - Execution time: 3.94502 seconds
+0/4 - Throughput: 506968 ops/sec
+3/4 - Performed a throughput benchmark:
+3/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+3/4 - Finds: 1602401 (0.8012), Inserts: 397599 (0.198799), Errors: 0 (0)
+3/4 - Execution time: 3.948 seconds
+3/4 - Throughput: 506585 ops/sec
+2/4 - Performed a throughput benchmark:
+2/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+2/4 - Finds: 1603436 (0.801718), Inserts: 396564 (0.198282), Errors: 0 (0)
+2/4 - Execution time: 3.94562 seconds
+2/4 - Throughput: 506891 ops/sec
+[1441206099.282185] [node017:27713:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1597.22
