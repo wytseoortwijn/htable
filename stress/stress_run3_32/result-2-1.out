@@ -1,0 +1,106 @@
+[1441375684.422580] [node012:31641:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1673.06
+[1441375684.428090] [node012:31641:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1441375684.634954] [node013:13351:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1474.97
+[1441375684.641516] [node013:13351:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC thread 0 of 2 on node012 (pshm node 0 of 2, process 0 of 2, pid=31641)
+UPCR: UPC thread 1 of 2 on node013 (pshm node 1 of 2, process 1 of 2, pid=13351)
+0/2 - htable initialized
+0/2 - table size: 2147483648 bytes (2048 MB)
+0/2 - total number of buckets: 268435456
+0/2 - block size: 1073741824 (1024 MB)
+0/2 - number of buckets in block: 134217728
+0/2 - number of blocks: 2
+doing part 0, roundtrips made: 10737423
+doing part 1, roundtrips made: 21474842
+doing part 2, roundtrips made: 32212260
+doing part 3, roundtrips made: 42949680
+doing part 4, roundtrips made: 53687101
+doing part 5, roundtrips made: 64424522
+doing part 6, roundtrips made: 75161943
+doing part 7, roundtrips made: 85899362
+doing part 8, roundtrips made: 96636782
+doing part 9, roundtrips made: 107374200
+doing part 10, roundtrips made: 118111620
+doing part 11, roundtrips made: 128849040
+doing part 12, roundtrips made: 139586459
+doing part 13, roundtrips made: 150323881
+doing part 14, roundtrips made: 161061301
+doing part 15, roundtrips made: 171798725
+doing part 16, roundtrips made: 182536145
+doing part 17, roundtrips made: 193273565
+doing part 18, roundtrips made: 204010992
+doing part 19, roundtrips made: 214748416
+doing part 20, roundtrips made: 225485846
+doing part 21, roundtrips made: 236223295
+doing part 22, roundtrips made: 246960783
+doing part 23, roundtrips made: 257698343
+doing part 24, roundtrips made: 268436079
+doing part 25, roundtrips made: 279174138
+doing part 26, roundtrips made: 289912872
+doing part 27, roundtrips made: 300652806
+doing part 28, roundtrips made: 311394919
+doing part 29, roundtrips made: 322140602
+doing part 30, roundtrips made: 332892187
+doing part 31, roundtrips made: 343653090
+doing part 32, roundtrips made: 354428080
+doing part 33, roundtrips made: 365225263
+doing part 34, roundtrips made: 376055572
+doing part 35, roundtrips made: 386934272
+doing part 36, roundtrips made: 397884340
+doing part 37, roundtrips made: 408936300
+doing part 38, roundtrips made: 420136860
+doing part 39, roundtrips made: 431551493
+doing part 40, roundtrips made: 443277323
+doing part 41, roundtrips made: 455472455
+doing part 42, roundtrips made: 468377645
+doing part 43, roundtrips made: 482407824
+doing part 44, roundtrips made: 498287012
+doing part 45, roundtrips made: 517526121
+0/2 - Performed a stress benchmark:
+0/2 - load factor 0.02, local: 364, remote: 4016, outgoing roundtrips: 1.9954, effective roundtrips: 0.997699
+0/2 - load factor 0.04, local: 363, remote: 3992, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.06, local: 361, remote: 3980, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.08, local: 362, remote: 3984, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.1, local: 362, remote: 3986, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.12, local: 358, remote: 3990, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.14, local: 364, remote: 4003, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.16, local: 363, remote: 3988, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.18, local: 362, remote: 3985, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.2, local: 362, remote: 3989, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.22, local: 363, remote: 3990, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.24, local: 363, remote: 3995, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.26, local: 357, remote: 3996, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.28, local: 359, remote: 3983, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.3, local: 363, remote: 4000, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.32, local: 362, remote: 3992, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.34, local: 363, remote: 3986, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.36, local: 361, remote: 3989, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.38, local: 359, remote: 3990, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.4, local: 357, remote: 3993, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.42, local: 356, remote: 3992, outgoing roundtrips: 2, effective roundtrips: 1
+0/2 - load factor 0.44, local: 358, remote: 3996, outgoing roundtrips: 2.00001, effective roundtrips: 1.00001
+0/2 - load factor 0.46, local: 360, remote: 4010, outgoing roundtrips: 2.00001, effective roundtrips: 1.00001
+0/2 - load factor 0.48, local: 357, remote: 3993, outgoing roundtrips: 2.00003, effective roundtrips: 1.00003
+0/2 - load factor 0.5, local: 359, remote: 3994, outgoing roundtrips: 2.00006, effective roundtrips: 1.00006
+0/2 - load factor 0.52, local: 360, remote: 3994, outgoing roundtrips: 2.00012, effective roundtrips: 1.00012
+0/2 - load factor 0.54, local: 364, remote: 3996, outgoing roundtrips: 2.00025, effective roundtrips: 1.00024
+0/2 - load factor 0.56, local: 364, remote: 3994, outgoing roundtrips: 2.00047, effective roundtrips: 1.00047
+0/2 - load factor 0.58, local: 358, remote: 3992, outgoing roundtrips: 2.00087, effective roundtrips: 1.00087
+0/2 - load factor 0.6, local: 361, remote: 4011, outgoing roundtrips: 2.00154, effective roundtrips: 1.00154
+0/2 - load factor 0.62, local: 365, remote: 3995, outgoing roundtrips: 2.00264, effective roundtrips: 1.00264
+0/2 - load factor 0.64, local: 366, remote: 3996, outgoing roundtrips: 2.00437, effective roundtrips: 1.00437
+0/2 - load factor 0.66, local: 367, remote: 3997, outgoing roundtrips: 2.007, effective roundtrips: 1.007
+0/2 - load factor 0.68, local: 368, remote: 4004, outgoing roundtrips: 2.01113, effective roundtrips: 1.01113
+0/2 - load factor 0.7, local: 370, remote: 4006, outgoing roundtrips: 2.0173, effective roundtrips: 1.0173
+0/2 - load factor 0.72, local: 372, remote: 4014, outgoing roundtrips: 2.02632, effective roundtrips: 1.02632
+0/2 - load factor 0.74, local: 374, remote: 4021, outgoing roundtrips: 2.03961, effective roundtrips: 1.03961
+0/2 - load factor 0.76, local: 378, remote: 4039, outgoing roundtrips: 2.05859, effective roundtrips: 1.05859
+0/2 - load factor 0.78, local: 382, remote: 4083, outgoing roundtrips: 2.08627, effective roundtrips: 1.08627
+0/2 - load factor 0.8, local: 382, remote: 4093, outgoing roundtrips: 2.12614, effective roundtrips: 1.12614
+0/2 - load factor 0.82, local: 394, remote: 4148, outgoing roundtrips: 2.18411, effective roundtrips: 1.18411
+0/2 - load factor 0.84, local: 407, remote: 4230, outgoing roundtrips: 2.27152, effective roundtrips: 1.27152
+0/2 - load factor 0.86, local: 424, remote: 4360, outgoing roundtrips: 2.40378, effective roundtrips: 1.40378
+0/2 - load factor 0.88, local: 447, remote: 4569, outgoing roundtrips: 2.61332, effective roundtrips: 1.61332
+0/2 - load factor 0.9, local: 483, remote: 4927, outgoing roundtrips: 2.95773, effective roundtrips: 1.95773
+0/2 - load factor 0.92, local: 541, remote: 5577, outgoing roundtrips: 3.58356, effective roundtrips: 2.58357
+[1441375684.406625] [node012:31596:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1674.56

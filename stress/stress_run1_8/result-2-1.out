@@ -1,0 +1,17 @@
+[1441377665.876922] [node053:8567 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1299.94
+[1441377665.882107] [node053:8567 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1441377666.089670] [node054:27637:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1595.44
+[1441377666.096242] [node054:27637:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC thread 0 of 2 on node053 (pshm node 0 of 2, process 0 of 2, pid=8567)
+UPCR: UPC thread 1 of 2 on node054 (pshm node 1 of 2, process 1 of 2, pid=27637)
+0/2 - htable initialized
+0/2 - table size: 2147483648 bytes (2048 MB)
+0/2 - total number of buckets: 268435456
+0/2 - block size: 1073741824 (1024 MB)
+0/2 - number of buckets in block: 134217728
+0/2 - number of blocks: 2
+doing part 0, roundtrips made: 10737419
+doing part 1, roundtrips made: 21474837
+doing part 2, roundtrips made: 32212255
+doing part 3, roundtrips made: 42949673
+doing part 4, roundtrips made: 53687093
