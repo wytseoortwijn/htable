@@ -1,0 +1,51 @@
+upcrun: WARNING: Given options request 1 nodes for 1 processes, 
+upcrun: WARNING: but there is no setting for 'smp_spawn_nodes'.
+upcrun: WARNING: Will use setting for 'smp_spawn' instead.
+upcrun: WARNING: THREAD LAYOUT MIGHT NOT MATCH YOUR REQUEST.
+UPCR: UPC threads 0..7 of 8 on node008 (pshm node 0 of 1, process 0 of 1, pid=16308)
+0/8 - htable initialized
+0/8 - table size: 8589934592 bytes (8192 MB)
+0/8 - total number of buckets: 1073741824
+0/8 - block size: 1073741824 (1024 MB)
+0/8 - number of buckets in block: 134217728
+0/8 - number of blocks: 8
+7/8 - Performed a throughput benchmark:
+7/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+7/8 - Finds: 1580695 (0.790347), Inserts: 419305 (0.209652), Errors: 0 (0)
+7/8 - Execution time: 0.005264 seconds
+7/8 - Throughput: 3.79939E+08 ops/sec
+0/8 - Performed a throughput benchmark:
+0/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+0/8 - Finds: 1582670 (0.791335), Inserts: 417330 (0.208665), Errors: 0 (0)
+0/8 - Execution time: 0.006296 seconds
+0/8 - Throughput: 3.17662E+08 ops/sec
+2/8 - Performed a throughput benchmark:
+2/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+2/8 - Finds: 1608651 (0.804326), Inserts: 391349 (0.195675), Errors: 0 (0)
+2/8 - Execution time: 0.006344 seconds
+2/8 - Throughput: 3.15259E+08 ops/sec
+5/8 - Performed a throughput benchmark:
+5/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+5/8 - Finds: 1608438 (0.804219), Inserts: 391562 (0.195781), Errors: 0 (0)
+5/8 - Execution time: 0.006425 seconds
+5/8 - Throughput: 3.11284E+08 ops/sec
+6/8 - Performed a throughput benchmark:
+6/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+6/8 - Finds: 1610494 (0.805247), Inserts: 389506 (0.194753), Errors: 0 (0)
+6/8 - Execution time: 0.006463 seconds
+6/8 - Throughput: 3.09454E+08 ops/sec
+1/8 - Performed a throughput benchmark:
+1/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+1/8 - Finds: 1609420 (0.80471), Inserts: 390580 (0.19529), Errors: 0 (0)
+1/8 - Execution time: 0.006296 seconds
+1/8 - Throughput: 3.17662E+08 ops/sec
+4/8 - Performed a throughput benchmark:
+4/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+4/8 - Finds: 1610576 (0.805288), Inserts: 389424 (0.194712), Errors: 0 (0)
+4/8 - Execution time: 0.007254 seconds
+4/8 - Throughput: 2.7571E+08 ops/sec
+3/8 - Performed a throughput benchmark:
+3/8 - Performed 2000000 find-or-put operations with random values from [0,...,3199999]
+3/8 - Finds: 1610713 (0.805357), Inserts: 389287 (0.194643), Errors: 0 (0)
+3/8 - Execution time: 0.007062 seconds
+3/8 - Throughput: 2.83206E+08 ops/sec

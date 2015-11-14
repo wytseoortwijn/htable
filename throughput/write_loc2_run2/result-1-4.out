@@ -1,0 +1,31 @@
+upcrun: WARNING: Given options request 1 nodes for 1 processes, 
+upcrun: WARNING: but there is no setting for 'smp_spawn_nodes'.
+upcrun: WARNING: Will use setting for 'smp_spawn' instead.
+upcrun: WARNING: THREAD LAYOUT MIGHT NOT MATCH YOUR REQUEST.
+UPCR: UPC threads 0..3 of 4 on node008 (pshm node 0 of 1, process 0 of 1, pid=17250)
+0/4 - htable initialized
+0/4 - table size: 4294967296 bytes (4096 MB)
+0/4 - total number of buckets: 536870912
+0/4 - block size: 1073741824 (1024 MB)
+0/4 - number of buckets in block: 134217728
+0/4 - number of blocks: 4
+2/4 - Performed a throughput benchmark:
+2/4 - Performed 2000000 find-or-put operations with random values from [0,...,18399999]
+2/4 - Finds: 365104 (0.182552), Inserts: 1634896 (0.817448), Errors: 0 (0)
+2/4 - Execution time: 0.004033 seconds
+2/4 - Throughput: 4.95909E+08 ops/sec
+0/4 - Performed a throughput benchmark:
+0/4 - Performed 2000000 find-or-put operations with random values from [0,...,18399999]
+0/4 - Finds: 382424 (0.191212), Inserts: 1617576 (0.808788), Errors: 0 (0)
+0/4 - Execution time: 0.003952 seconds
+0/4 - Throughput: 5.06073E+08 ops/sec
+3/4 - Performed a throughput benchmark:
+3/4 - Performed 2000000 find-or-put operations with random values from [0,...,18399999]
+3/4 - Finds: 382030 (0.191015), Inserts: 1617970 (0.808985), Errors: 0 (0)
+3/4 - Execution time: 0.00385 seconds
+3/4 - Throughput: 5.19481E+08 ops/sec
+1/4 - Performed a throughput benchmark:
+1/4 - Performed 2000000 find-or-put operations with random values from [0,...,18399999]
+1/4 - Finds: 382391 (0.191195), Inserts: 1617609 (0.808805), Errors: 0 (0)
+1/4 - Execution time: 0.003945 seconds
+1/4 - Throughput: 5.06971E+08 ops/sec

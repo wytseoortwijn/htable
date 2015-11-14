@@ -1,0 +1,16 @@
+upcrun: WARNING: Given options request 1 nodes for 1 processes, 
+upcrun: WARNING: but there is no setting for 'smp_spawn_nodes'.
+upcrun: WARNING: Will use setting for 'smp_spawn' instead.
+upcrun: WARNING: THREAD LAYOUT MIGHT NOT MATCH YOUR REQUEST.
+UPCR: UPC thread 0 of 1 on node008 (pshm node 0 of 1, process 0 of 1, pid=16143)
+0/1 - htable initialized
+0/1 - table size: 1073741824 bytes (1024 MB)
+0/1 - total number of buckets: 134217728
+0/1 - block size: 1073741824 (1024 MB)
+0/1 - number of buckets in block: 134217728
+0/1 - number of blocks: 1
+0/1 - Performed a throughput benchmark:
+0/1 - Performed 2000000 find-or-put operations with random values from [0,...,399999]
+0/1 - Finds: 1602603 (0.801301), Inserts: 397397 (0.198699), Errors: 0 (0)
+0/1 - Execution time: 0.407011 seconds
+0/1 - Throughput: 4.91387E+06 ops/sec

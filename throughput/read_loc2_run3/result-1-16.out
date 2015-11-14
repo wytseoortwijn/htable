@@ -1,0 +1,91 @@
+upcrun: WARNING: Given options request 1 nodes for 1 processes, 
+upcrun: WARNING: but there is no setting for 'smp_spawn_nodes'.
+upcrun: WARNING: Will use setting for 'smp_spawn' instead.
+upcrun: WARNING: THREAD LAYOUT MIGHT NOT MATCH YOUR REQUEST.
+UPCR: UPC threads 0..15 of 16 on node008 (pshm node 0 of 1, process 0 of 1, pid=16523)
+0/16 - htable initialized
+0/16 - table size: 17179869184 bytes (16384 MB)
+0/16 - total number of buckets: 2147483648
+0/16 - block size: 1073741824 (1024 MB)
+0/16 - number of buckets in block: 134217728
+0/16 - number of blocks: 16
+0/16 - Performed a throughput benchmark:
+0/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+0/16 - Finds: 1577979 (0.78899), Inserts: 422021 (0.21101), Errors: 0 (0)
+0/16 - Execution time: 1.06349 seconds
+0/16 - Throughput: 1.88061E+06 ops/sec
+15/16 - Performed a throughput benchmark:
+15/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+15/16 - Finds: 1586155 (0.793077), Inserts: 413845 (0.206923), Errors: 0 (0)
+15/16 - Execution time: 1.13178 seconds
+15/16 - Throughput: 1.76712E+06 ops/sec
+6/16 - Performed a throughput benchmark:
+6/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+6/16 - Finds: 1605208 (0.802604), Inserts: 394792 (0.197396), Errors: 0 (0)
+6/16 - Execution time: 1.22513 seconds
+6/16 - Throughput: 1.63249E+06 ops/sec
+3/16 - Performed a throughput benchmark:
+3/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+3/16 - Finds: 1606246 (0.803123), Inserts: 393754 (0.196877), Errors: 0 (0)
+3/16 - Execution time: 1.22745 seconds
+3/16 - Throughput: 1.6294E+06 ops/sec
+1/16 - Performed a throughput benchmark:
+1/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+1/16 - Finds: 1605666 (0.802833), Inserts: 394334 (0.197167), Errors: 0 (0)
+1/16 - Execution time: 1.22829 seconds
+1/16 - Throughput: 1.62828E+06 ops/sec
+4/16 - Performed a throughput benchmark:
+4/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+4/16 - Finds: 1605699 (0.802849), Inserts: 394301 (0.197151), Errors: 0 (0)
+4/16 - Execution time: 1.22783 seconds
+4/16 - Throughput: 1.62889E+06 ops/sec
+2/16 - Performed a throughput benchmark:
+2/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+2/16 - Finds: 1606473 (0.803237), Inserts: 393527 (0.196764), Errors: 0 (0)
+2/16 - Execution time: 1.23095 seconds
+2/16 - Throughput: 1.62476E+06 ops/sec
+5/16 - Performed a throughput benchmark:
+5/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+5/16 - Finds: 1605747 (0.802874), Inserts: 394253 (0.197127), Errors: 0 (0)
+5/16 - Execution time: 1.23131 seconds
+5/16 - Throughput: 1.62428E+06 ops/sec
+7/16 - Performed a throughput benchmark:
+7/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+7/16 - Finds: 1606767 (0.803384), Inserts: 393233 (0.196616), Errors: 0 (0)
+7/16 - Execution time: 1.23269 seconds
+7/16 - Throughput: 1.62247E+06 ops/sec
+9/16 - Performed a throughput benchmark:
+9/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+9/16 - Finds: 1604801 (0.8024), Inserts: 395199 (0.1976), Errors: 0 (0)
+9/16 - Execution time: 1.23708 seconds
+9/16 - Throughput: 1.61672E+06 ops/sec
+14/16 - Performed a throughput benchmark:
+14/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+14/16 - Finds: 1605124 (0.802562), Inserts: 394876 (0.197438), Errors: 0 (0)
+14/16 - Execution time: 1.2368 seconds
+14/16 - Throughput: 1.61708E+06 ops/sec
+12/16 - Performed a throughput benchmark:
+12/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+12/16 - Finds: 1604237 (0.802118), Inserts: 395763 (0.197881), Errors: 0 (0)
+12/16 - Execution time: 1.23816 seconds
+12/16 - Throughput: 1.6153E+06 ops/sec
+10/16 - Performed a throughput benchmark:
+10/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+10/16 - Finds: 1603708 (0.801854), Inserts: 396292 (0.198146), Errors: 0 (0)
+10/16 - Execution time: 1.24061 seconds
+10/16 - Throughput: 1.61211E+06 ops/sec
+11/16 - Performed a throughput benchmark:
+11/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+11/16 - Finds: 1607961 (0.80398), Inserts: 392039 (0.19602), Errors: 0 (0)
+11/16 - Execution time: 1.24023 seconds
+11/16 - Throughput: 1.6126E+06 ops/sec
+13/16 - Performed a throughput benchmark:
+13/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+13/16 - Finds: 1606192 (0.803096), Inserts: 393808 (0.196904), Errors: 0 (0)
+13/16 - Execution time: 1.24077 seconds
+13/16 - Throughput: 1.6119E+06 ops/sec
+8/16 - Performed a throughput benchmark:
+8/16 - Performed 2000000 find-or-put operations with random values from [0,...,6399999]
+8/16 - Finds: 1605442 (0.802721), Inserts: 394558 (0.197279), Errors: 0 (0)
+8/16 - Execution time: 1.24369 seconds
+8/16 - Throughput: 1.60811E+06 ops/sec
