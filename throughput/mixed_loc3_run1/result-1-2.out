@@ -1,22 +1,20 @@
-upcrun: WARNING: Given options request 1 nodes for 2 processes, 
-upcrun: WARNING: but there is no setting for 'smp_spawn_nodes'.
-upcrun: WARNING: Will use setting for 'smp_spawn' instead.
-upcrun: WARNING: THREAD LAYOUT MIGHT NOT MATCH YOUR REQUEST.
-UPCR: UPC thread 0 of 2 on node008 (pshm node 0 of 1, process 0 of 2, pid=20362)
-UPCR: UPC thread 1 of 2 on node008 (pshm node 0 of 1, process 1 of 2, pid=20388)
-1/2 - Performed a throughput benchmark:
-1/2 - Performed 2000000 find-or-put operations with random values from [0,...,2599999]
-1/2 - Finds: 979449 (0.489725), Inserts: 1020551 (0.510275), Errors: 0 (0)
-1/2 - Execution time: 0.667149 seconds
-1/2 - Throughput: 2.99783E+06 ops/sec
+[1447508521.109006] [node008:21885:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1493.81
+[1447508521.114632] [node008:21885:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC threads 0..1 of 2 on node008 (pshm node 0 of 1, process 0 of 1, pid=21885)
 0/2 - htable initialized
 0/2 - table size: 2147483648 bytes (2048 MB)
 0/2 - total number of buckets: 268435456
 0/2 - block size: 1073741824 (1024 MB)
 0/2 - number of buckets in block: 134217728
 0/2 - number of blocks: 2
+1/2 - Performed a throughput benchmark:
+1/2 - Performed 2000000 find-or-put operations with random values from [0,...,2599999]
+1/2 - Finds: 970426 (0.485213), Inserts: 1029574 (0.514787), Errors: 0 (0)
+1/2 - Execution time: 0.008167 seconds
+1/2 - Throughput: 2.44888E+08 ops/sec
 0/2 - Performed a throughput benchmark:
 0/2 - Performed 2000000 find-or-put operations with random values from [0,...,2599999]
-0/2 - Finds: 978303 (0.489152), Inserts: 1021697 (0.510849), Errors: 0 (0)
-0/2 - Execution time: 0.668966 seconds
-0/2 - Throughput: 2.98969E+06 ops/sec
+0/2 - Finds: 988234 (0.494117), Inserts: 1011766 (0.505883), Errors: 0 (0)
+0/2 - Execution time: 0.010663 seconds
+0/2 - Throughput: 1.87564E+08 ops/sec
+[1447508521.093297] [node008:21840:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1493.81

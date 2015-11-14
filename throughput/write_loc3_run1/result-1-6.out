@@ -1,0 +1,40 @@
+[1447509019.125637] [node008:24563:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1359.47
+[1447509019.131402] [node008:24563:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC threads 0..5 of 6 on node008 (pshm node 0 of 1, process 0 of 1, pid=24563)
+0/6 - htable initialized
+0/6 - table size: 6442450944 bytes (6144 MB)
+0/6 - total number of buckets: 805306368
+0/6 - block size: 1073741824 (1024 MB)
+0/6 - number of buckets in block: 134217728
+0/6 - number of blocks: 6
+2/6 - Performed a throughput benchmark:
+2/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+2/6 - Finds: 373178 (0.186589), Inserts: 1626822 (0.813411), Errors: 0 (0)
+2/6 - Execution time: 0.012538 seconds
+2/6 - Throughput: 1.59515E+08 ops/sec
+5/6 - Performed a throughput benchmark:
+5/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+5/6 - Finds: 375891 (0.187945), Inserts: 1624109 (0.812055), Errors: 0 (0)
+5/6 - Execution time: 0.0127 seconds
+5/6 - Throughput: 1.5748E+08 ops/sec
+3/6 - Performed a throughput benchmark:
+3/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+3/6 - Finds: 374535 (0.187268), Inserts: 1625465 (0.812732), Errors: 0 (0)
+3/6 - Execution time: 0.012815 seconds
+3/6 - Throughput: 1.56067E+08 ops/sec
+1/6 - Performed a throughput benchmark:
+1/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+1/6 - Finds: 375824 (0.187912), Inserts: 1624176 (0.812088), Errors: 0 (0)
+1/6 - Execution time: 0.01361 seconds
+1/6 - Throughput: 1.46951E+08 ops/sec
+4/6 - Performed a throughput benchmark:
+4/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+4/6 - Finds: 376521 (0.18826), Inserts: 1623479 (0.811739), Errors: 0 (0)
+4/6 - Execution time: 0.016192 seconds
+4/6 - Throughput: 1.23518E+08 ops/sec
+0/6 - Performed a throughput benchmark:
+0/6 - Performed 2000000 find-or-put operations with random values from [0,...,27599998]
+0/6 - Finds: 394053 (0.197026), Inserts: 1605947 (0.802974), Errors: 0 (0)
+0/6 - Execution time: 0.017734 seconds
+0/6 - Throughput: 1.12778E+08 ops/sec
+[1447509019.109563] [node008:24518:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1359.47
