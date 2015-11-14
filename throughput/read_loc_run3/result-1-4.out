@@ -1,0 +1,30 @@
+[1447500705.070530] [node008:10008:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2599.97
+[1447500705.076462] [node008:10008:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC threads 0..3 of 4 on node008 (pshm node 0 of 1, process 0 of 1, pid=10008)
+0/4 - htable initialized
+0/4 - table size: 4294967296 bytes (4096 MB)
+0/4 - total number of buckets: 536870912
+0/4 - block size: 1073741824 (1024 MB)
+0/4 - number of buckets in block: 134217728
+0/4 - number of blocks: 4
+0/4 - Performed a throughput benchmark:
+0/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+0/4 - Finds: 1598207 (0.799103), Inserts: 401793 (0.200897), Errors: 0 (0)
+0/4 - Execution time: 0.010661 seconds
+0/4 - Throughput: 1.876E+08 ops/sec
+3/4 - Performed a throughput benchmark:
+3/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+3/4 - Finds: 1603576 (0.801788), Inserts: 396424 (0.198212), Errors: 0 (0)
+3/4 - Execution time: 0.010272 seconds
+3/4 - Throughput: 1.94704E+08 ops/sec
+2/4 - Performed a throughput benchmark:
+2/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+2/4 - Finds: 1606189 (0.803095), Inserts: 393811 (0.196906), Errors: 0 (0)
+2/4 - Execution time: 0.011331 seconds
+2/4 - Throughput: 1.76507E+08 ops/sec
+1/4 - Performed a throughput benchmark:
+1/4 - Performed 2000000 find-or-put operations with random values from [0,...,1599999]
+1/4 - Finds: 1603000 (0.8015), Inserts: 397000 (0.1985), Errors: 0 (0)
+1/4 - Execution time: 0.011083 seconds
+1/4 - Throughput: 1.80457E+08 ops/sec
+[1447500705.053996] [node008:9963 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2599.97

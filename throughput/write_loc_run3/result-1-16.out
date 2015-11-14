@@ -1,0 +1,70 @@
+[1447501486.179362] [node008:12601:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2544.38
+[1447501486.185071] [node008:12601:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC threads 0..15 of 16 on node008 (pshm node 0 of 1, process 0 of 1, pid=12601)
+0/16 - htable initialized
+0/16 - table size: 17179869184 bytes (16384 MB)
+0/16 - total number of buckets: 2147483648
+0/16 - block size: 1073741824 (1024 MB)
+0/16 - number of buckets in block: 134217728
+0/16 - number of blocks: 16
+0/16 - Performed a throughput benchmark:
+0/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+0/16 - Finds: 257696 (0.128848), Inserts: 1742304 (0.871152), Errors: 0 (0)
+0/16 - Execution time: 0.249515 seconds
+0/16 - Throughput: 8.01555E+06 ops/sec
+2/16 - Performed a throughput benchmark:
+2/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+2/16 - Finds: 261585 (0.130793), Inserts: 1738415 (0.869208), Errors: 0 (0)
+2/16 - Execution time: 0.26228 seconds
+2/16 - Throughput: 7.62544E+06 ops/sec
+1/16 - Performed a throughput benchmark:
+1/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+1/16 - Finds: 261165 (0.130582), Inserts: 1738835 (0.869417), Errors: 0 (0)
+1/16 - Execution time: 0.261382 seconds
+1/16 - Throughput: 7.65164E+06 ops/sec
+3/16 - Performed a throughput benchmark:
+3/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+3/16 - Finds: 260485 (0.130243), Inserts: 1739515 (0.869757), Errors: 0 (0)
+3/16 - Execution time: 0.261649 seconds
+3/16 - Throughput: 7.64383E+06 ops/sec
+6/16 - Performed a throughput benchmark:
+6/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+6/16 - Finds: 261210 (0.130605), Inserts: 1738790 (0.869395), Errors: 0 (0)
+6/16 - Execution time: 0.262422 seconds
+6/16 - Throughput: 7.62131E+06 ops/sec
+7/16 - Performed a throughput benchmark:
+7/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+7/16 - Finds: 260823 (0.130412), Inserts: 1739177 (0.869588), Errors: 0 (0)
+7/16 - Execution time: 0.263245 seconds
+7/16 - Throughput: 7.59749E+06 ops/sec
+4/16 - Performed a throughput benchmark:
+4/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+4/16 - Finds: 260869 (0.130435), Inserts: 1739131 (0.869565), Errors: 0 (0)
+5/16 - Performed a throughput benchmark:
+5/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+5/16 - Finds: 261644 (0.130822), Inserts: 1738356 (0.869178), Errors: 0 (0)
+5/16 - Execution time: 0.262774 seconds
+5/16 - Throughput: 7.6111E+06 ops/sec
+4/16 - Execution time: 0.262157 seconds
+4/16 - Throughput: 7.62902E+06 ops/sec
+12/16 - Performed a throughput benchmark:
+12/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+12/16 - Finds: 493844 (0.246922), Inserts: 1506156 (0.753078), Errors: 0 (0)
+12/16 - Execution time: 2.94925 seconds
+12/16 - Throughput: 678139 ops/sec
+14/16 - Performed a throughput benchmark:
+14/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+14/16 - Finds: 495970 (0.247985), Inserts: 1504030 (0.752015), Errors: 0 (0)
+14/16 - Execution time: 2.95306 seconds
+14/16 - Throughput: 677264 ops/sec
+9/16 - Performed a throughput benchmark:
+9/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+9/16 - Finds: 494761 (0.247381), Inserts: 1505239 (0.752619), Errors: 0 (0)
+9/16 - Execution time: 2.95638 seconds
+9/16 - Throughput: 676503 ops/sec
+10/16 - Performed a throughput benchmark:
+10/16 - Performed 2000000 find-or-put operations with random values from [0,...,73599999]
+10/16 - Finds: 494107 (0.247054), Inserts: 1505893 (0.752946), Errors: 0 (0)
+10/16 - Execution time: 2.95605 seconds
+10/16 - Throughput: 676579 ops/sec
+11/16 - Performed a thro[1447501486.164202] [node008:12555:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2544.38
