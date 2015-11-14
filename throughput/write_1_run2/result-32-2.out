@@ -1,0 +1,519 @@
+[1447442928.195547] [node014:6566 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2581.59
+[1447442928.210377] [node014:6566 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.197066] [node014:6567 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2581.59
+[1447442928.210460] [node014:6567 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.786627] [node019:20903:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2042.91
+[1447442928.790717] [node019:20903:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.796563] [node019:20904:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1988.91
+[1447442928.800615] [node019:20904:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.793907] [node016:32037:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1895.16
+[1447442928.797688] [node016:32037:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.784732] [node017:26770:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2137.12
+[1447442928.791043] [node017:26770:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.790432] [node021:19208:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1593.19
+[1447442928.794692] [node021:19208:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.788782] [node020:10213:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2099.34
+[1447442928.796359] [node020:10213:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.786920] [node020:10212:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2099.34
+[1447442928.793882] [node020:10212:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.793333] [node015:13188:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2079.75
+[1447442928.800260] [node015:13188:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.804422] [node015:13189:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2079.75
+[1447442928.811967] [node015:13189:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.806691] [node022:8165 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1898.72
+[1447442928.812965] [node022:8165 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.811881] [node018:16936:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2392.31
+[1447442928.818181] [node018:16936:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.808905] [node030:19190:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1896.28
+[1447442928.815042] [node030:19190:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.895544] [node032:23765:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2582.06
+[1447442928.901994] [node032:23765:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.906200] [node021:19242:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1895.81
+[1447442928.910348] [node021:19242:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.904883] [node016:32071:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2028.09
+[1447442928.909330] [node016:32071:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.909911] [node018:16970:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2392.31
+[1447442928.915753] [node018:16970:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.898811] [node032:23761:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2176.41
+[1447442928.905935] [node032:23761:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.921572] [node037:29822:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2164.97
+[1447442928.925318] [node037:29822:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.900056] [node017:26804:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1898.34
+[1447442928.906546] [node017:26804:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.911448] [node030:19224:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1890.56
+[1447442928.917736] [node030:19224:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.925789] [node036:26155:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1982.91
+[1447442928.929723] [node036:26155:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.908055] [node035:23551:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1957.31
+[1447442928.912678] [node035:23551:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.914322] [node033:28049:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2203.59
+[1447442928.922415] [node033:28049:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.915732] [node033:28066:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2203.59
+[1447442928.923163] [node033:28066:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.934099] [node037:29821:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1916.53
+[1447442928.937964] [node037:29821:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.914457] [node035:23550:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1957.31
+[1447442928.919754] [node035:23550:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.917851] [node031:25372:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2308.69
+[1447442928.926763] [node031:25372:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.940509] [node050:26036:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1797.94
+[1447442928.944232] [node050:26036:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.917893] [node031:25366:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2308.69
+[1447442928.925971] [node031:25366:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.938465] [node047:11129:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2092.50
+[1447442928.942856] [node047:11129:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.920256] [node022:8199 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1596.75
+[1447442928.926834] [node022:8199 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.925988] [node042:16557:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2192.16
+[1447442928.932384] [node042:16557:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.944969] [node048:12304:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2090.53
+[1447442928.949021] [node048:12304:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.943433] [node036:26161:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1982.91
+[1447442928.947750] [node036:26161:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.941020] [node049:31858:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1997.34
+[1447442928.945252] [node049:31858:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.946523] [node050:26035:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1797.94
+[1447442928.950140] [node050:26035:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.947270] [node048:12300:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2090.53
+[1447442928.951268] [node048:12300:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.939183] [node040:30769:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2192.91
+[1447442928.947254] [node040:30769:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.942968] [node051:2254 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1899.94
+[1447442928.947244] [node051:2254 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.935041] [node042:16558:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2192.16
+[1447442928.943033] [node042:16558:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.948550] [node047:11133:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2092.50
+[1447442928.952369] [node047:11133:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.938099] [node040:30765:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2192.91
+[1447442928.945088] [node040:30765:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.939841] [node039:19996:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2456.25
+[1447442928.946737] [node039:19996:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.941716] [node039:19998:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2456.25
+[1447442928.949240] [node039:19998:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.945393] [node051:2264 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1899.94
+[1447442928.949439] [node051:2264 :0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.945420] [node045:26497:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2471.44
+[1447442928.951045] [node045:26497:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.948832] [node049:31861:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1997.34
+[1447442928.953013] [node049:31861:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.934416] [node034:28349:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1999.12
+[1447442928.940758] [node034:28349:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.945374] [node038:26183:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2495.81
+[1447442928.951787] [node038:26183:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.942577] [node044:28140:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2179.41
+[1447442928.949490] [node044:28140:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.949680] [node038:26184:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2495.81
+[1447442928.955512] [node038:26184:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.945379] [node044:28142:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2179.41
+[1447442928.951944] [node044:28142:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.948116] [node041:26540:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2080.78
+[1447442928.955001] [node041:26540:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.953479] [node046:31733:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1997.25
+[1447442928.957848] [node046:31733:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.954074] [node046:31741:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1997.25
+[1447442928.958208] [node046:31741:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.952831] [node045:26503:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2471.44
+[1447442928.960366] [node045:26503:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.943669] [node034:28346:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1999.12
+[1447442928.952364] [node034:28346:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.952346] [node043:27567:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1998.66
+[1447442928.958534] [node043:27567:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.957213] [node043:27568:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 1998.66
+[1447442928.963563] [node043:27568:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.960584] [node041:26541:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2080.78
+[1447442928.967897] [node041:26541:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.975818] [node052:11108:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2294.91
+[1447442928.980013] [node052:11108:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+[1447442928.988537] [node052:11116:0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2200.03
+[1447442928.992680] [node052:11116:0]         mxm.c:185  MXM  WARN  The 'ulimit -s' on the system is set to 'unlimited'. This may have negative performance implications. Please set the heap size to the default value (10240) 
+UPCR: UPC thread  1 of 64 on node014 (pshm node  0 of 32, process  1 of 64, pid=6567)
+UPCR: UPC thread  0 of 64 on node014 (pshm node  0 of 32, process  0 of 64, pid=6566)
+UPCR: UPC thread  5 of 64 on node016 (pshm node  2 of 32, process  5 of 64, pid=32071)
+UPCR: UPC thread 17 of 64 on node022 (pshm node  8 of 32, process 17 of 64, pid=8165)
+UPCR: UPC thread  9 of 64 on node018 (pshm node  4 of 32, process  9 of 64, pid=16936)
+UPCR: UPC thread 40 of 64 on node041 (pshm node 20 of 32, process 40 of 64, pid=26540)
+UPCR: UPC thread 49 of 64 on node045 (pshm node 24 of 32, process 49 of 64, pid=26497)
+UPCR: UPC thread 16 of 64 on node022 (pshm node  8 of 32, process 16 of 64, pid=8199)
+UPCR: UPC thread 13 of 64 on node020 (pshm node  6 of 32, process 13 of 64, pid=10213)
+UPCR: UPC thread 48 of 64 on node045 (pshm node 24 of 32, process 48 of 64, pid=26503)
+UPCR: UPC thread 55 of 64 on node048 (pshm node 27 of 32, process 55 of 64, pid=12300)
+UPCR: UPC thread 32 of 64 on node037 (pshm node 16 of 32, process 32 of 64, pid=29821)
+UPCR: UPC thread  2 of 64 on node015 (pshm node  1 of 32, process  2 of 64, pid=13188)
+UPCR: UPC thread 45 of 64 on node043 (pshm node 22 of 32, process 45 of 64, pid=27567)
+UPCR: UPC thread 18 of 64 on node030 (pshm node  9 of 32, process 18 of 64, pid=19224)
+UPCR: UPC thread 29 of 64 on node035 (pshm node 14 of 32, process 29 of 64, pid=23550)
+UPCR: UPC thread 23 of 64 on node032 (pshm node 11 of 32, process 23 of 64, pid=23761)
+UPCR: UPC thread  6 of 64 on node017 (pshm node  3 of 32, process  6 of 64, pid=26804)
+UPCR: UPC thread  4 of 64 on node016 (pshm node  2 of 32, process  4 of 64, pid=32037)
+UPCR: UPC thread  3 of 64 on node015 (pshm node  1 of 32, process  3 of 64, pid=13189)
+UPCR: UPC thread 25 of 64 on node033 (pshm node 12 of 32, process 25 of 64, pid=28066)
+UPCR: UPC thread 21 of 64 on node031 (pshm node 10 of 32, process 21 of 64, pid=25372)
+UPCR: UPC thread 33 of 64 on node037 (pshm node 16 of 32, process 33 of 64, pid=29822)
+UPCR: UPC thread  7 of 64 on node017 (pshm node  3 of 32, process  7 of 64, pid=26770)
+UPCR: UPC thread 47 of 64 on node044 (pshm node 23 of 32, process 47 of 64, pid=28142)
+UPCR: UPC thread 11 of 64 on node019 (pshm node  5 of 32, process 11 of 64, pid=20903)
+UPCR: UPC thread 20 of 64 on node031 (pshm node 10 of 32, process 20 of 64, pid=25366)
+UPCR: UPC thread 22 of 64 on node032 (pshm node 11 of 32, process 22 of 64, pid=23765)
+UPCR: UPC thread 19 of 64 on node030 (pshm node  9 of 32, process 19 of 64, pid=19190)
+UPCR: UPC thread 35 of 64 on node038 (pshm node 17 of 32, process 35 of 64, pid=26183)
+UPCR: UPC thread 53 of 64 on node047 (pshm node 26 of 32, process 53 of 64, pid=11133)
+UPCR: UPC thread 51 of 64 on node046 (pshm node 25 of 32, process 51 of 64, pid=31733)
+UPCR: UPC thread 58 of 64 on node050 (pshm node 29 of 32, process 58 of 64, pid=26036)
+UPCR: UPC thread 34 of 64 on node038 (pshm node 17 of 32, process 34 of 64, pid=26184)
+UPCR: UPC thread 15 of 64 on node021 (pshm node  7 of 32, process 15 of 64, pid=19242)
+UPCR: UPC thread 61 of 64 on node051 (pshm node 30 of 32, process 61 of 64, pid=2254)
+UPCR: UPC thread  8 of 64 on node018 (pshm node  4 of 32, process  8 of 64, pid=16970)
+UPCR: UPC thread 39 of 64 on node040 (pshm node 19 of 32, process 39 of 64, pid=30765)
+UPCR: UPC thread 24 of 64 on node033 (pshm node 12 of 32, process 24 of 64, pid=28049)
+UPCR: UPC thread 31 of 64 on node036 (pshm node 15 of 32, process 31 of 64, pid=26161)
+UPCR: UPC thread 14 of 64 on node021 (pshm node  7 of 32, process 14 of 64, pid=19208)
+UPCR: UPC thread 63 of 64 on node052 (pshm node 31 of 32, process 63 of 64, pid=11116)
+UPCR: UPC thread 54 of 64 on node048 (pshm node 27 of 32, process 54 of 64, pid=12304)
+UPCR: UPC thread 26 of 64 on node034 (pshm node 13 of 32, process 26 of 64, pid=28349)
+UPCR: UPC thread 44 of 64 on node043 (pshm node 22 of 32, process 44 of 64, pid=27568)
+UPCR: UPC thread 38 of 64 on node040 (pshm node 19 of 32, process 38 of 64, pid=30769)
+UPCR: UPC thread 59 of 64 on node050 (pshm node 29 of 32, process 59 of 64, pid=26035)
+UPCR: UPC thread 37 of 64 on node039 (pshm node 18 of 32, process 37 of 64, pid=19996)
+UPCR: UPC thread 10 of 64 on node019 (pshm node  5 of 32, process 10 of 64, pid=20904)
+UPCR: UPC thread 12 of 64 on node020 (pshm node  6 of 32, process 12 of 64, pid=10212)
+UPCR: UPC thread 50 of 64 on node046 (pshm node 25 of 32, process 50 of 64, pid=31741)
+UPCR: UPC thread 28 of 64 on node035 (pshm node 14 of 32, process 28 of 64, pid=23551)
+UPCR: UPC thread 57 of 64 on node049 (pshm node 28 of 32, process 57 of 64, pid=31861)
+UPCR: UPC thread 60 of 64 on node051 (pshm node 30 of 32, process 60 of 64, pid=2264)
+UPCR: UPC thread 43 of 64 on node042 (pshm node 21 of 32, process 43 of 64, pid=16557)
+UPCR: UPC thread 56 of 64 on node049 (pshm node 28 of 32, process 56 of 64, pid=31858)
+UPCR: UPC thread 52 of 64 on node047 (pshm node 26 of 32, process 52 of 64, pid=11129)
+UPCR: UPC thread 42 of 64 on node042 (pshm node 21 of 32, process 42 of 64, pid=16558)
+UPCR: UPC thread 41 of 64 on node041 (pshm node 20 of 32, process 41 of 64, pid=26541)
+UPCR: UPC thread 36 of 64 on node039 (pshm node 18 of 32, process 36 of 64, pid=19998)
+UPCR: UPC thread 30 of 64 on node036 (pshm node 15 of 32, process 30 of 64, pid=26155)
+UPCR: UPC thread 27 of 64 on node034 (pshm node 13 of 32, process 27 of 64, pid=28346)
+UPCR: UPC thread 46 of 64 on node044 (pshm node 23 of 32, process 46 of 64, pid=28140)
+UPCR: UPC thread 62 of 64 on node052 (pshm node 31 of 32, process 62 of 64, pid=11108)
+0/64 - htable initialized
+0/64 - table size: 68719476736 bytes (65536 MB)
+0/64 - total number of buckets: 8589934592
+0/64 - block size: 1073741824 (1024 MB)
+0/64 - number of buckets in block: 134217728
+0/64 - number of blocks: 64
+22/64 - Performed a throughput benchmark:
+22/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+22/64 - Finds: 359222 (0.179611), Inserts: 1640778 (0.820389), Errors: 0 (0)
+22/64 - Execution time: 9.37969 seconds
+22/64 - Throughput: 213227 ops/sec
+45/64 - Performed a throughput benchmark:
+45/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+45/64 - Finds: 358976 (0.179488), Inserts: 1641024 (0.820512), Errors: 0 (0)
+45/64 - Execution time: 9.38114 seconds
+45/64 - Throughput: 213194 ops/sec
+33/64 - Performed a throughput benchmark:
+33/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+33/64 - Finds: 358150 (0.179075), Inserts: 1641850 (0.820925), Errors: 0 (0)
+33/64 - Execution time: 9.37917 seconds
+33/64 - Throughput: 213238 ops/sec
+23/64 - Performed a throughput benchmark:
+23/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+23/64 - Finds: 359948 (0.179974), Inserts: 1640052 (0.820026), Errors: 0 (0)
+23/64 - Execution time: 9.37805 seconds
+23/64 - Throughput: 213264 ops/sec
+44/64 - Performed a throughput benchmark:
+44/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+44/64 - Finds: 360061 (0.180031), Inserts: 1639939 (0.81997), Errors: 0 (0)
+44/64 - Execution time: 9.37509 seconds
+44/64 - Throughput: 213331 ops/sec
+34/64 - Performed a throughput benchmark:
+34/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+34/64 - Finds: 358638 (0.179319), Inserts: 1641362 (0.820681), Errors: 0 (0)
+34/64 - Execution time: 9.38658 seconds
+34/64 - Throughput: 213070 ops/sec
+36/64 - Performed a throughput benchmark:
+36/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+36/64 - Finds: 358482 (0.179241), Inserts: 1641518 (0.820759), Errors: 0 (0)
+36/64 - Execution time: 9.38625 seconds
+36/64 - Throughput: 213078 ops/sec
+48/64 - Performed a throughput benchmark:
+48/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+48/64 - Finds: 359209 (0.179605), Inserts: 1640791 (0.820396), Errors: 0 (0)
+48/64 - Execution time: 9.39274 seconds
+48/64 - Throughput: 212930 ops/sec
+30/64 - Performed a throughput benchmark:
+30/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+30/64 - Finds: 359854 (0.179927), Inserts: 1640146 (0.820073), Errors: 0 (0)
+30/64 - Execution time: 9.40346 seconds
+30/64 - Throughput: 212688 ops/sec
+32/64 - Performed a throughput benchmark:
+32/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+32/64 - Finds: 359463 (0.179731), Inserts: 1640537 (0.820268), Errors: 0 (0)
+32/64 - Execution time: 9.39692 seconds
+32/64 - Throughput: 212836 ops/sec
+39/64 - Performed a throughput benchmark:
+39/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+39/64 - Finds: 359900 (0.17995), Inserts: 1640100 (0.82005), Errors: 0 (0)
+39/64 - Execution time: 9.39329 seconds
+39/64 - Throughput: 212918 ops/sec
+31/64 - Performed a throughput benchmark:
+31/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+31/64 - Finds: 359031 (0.179515), Inserts: 1640969 (0.820484), Errors: 0 (0)
+31/64 - Execution time: 9.39696 seconds
+31/64 - Throughput: 212835 ops/sec
+21/64 - Performed a throughput benchmark:
+21/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+21/64 - Finds: 359830 (0.179915), Inserts: 1640170 (0.820085), Errors: 0 (0)
+21/64 - Execution time: 9.40491 seconds
+21/64 - Throughput: 212655 ops/sec
+25/64 - Performed a throughput benchmark:
+25/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+25/64 - Finds: 359144 (0.179572), Inserts: 1640856 (0.820428), Errors: 0 (0)
+25/64 - Execution time: 9.41503 seconds
+25/64 - Throughput: 212426 ops/sec
+38/64 - Performed a throughput benchmark:
+38/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+38/64 - Finds: 359173 (0.179587), Inserts: 1640827 (0.820414), Errors: 0 (0)
+38/64 - Execution time: 9.40282 seconds
+38/64 - Throughput: 212702 ops/sec
+29/64 - Performed a throughput benchmark:
+29/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+29/64 - Finds: 359775 (0.179888), Inserts: 1640225 (0.820113), Errors: 0 (0)
+29/64 - Execution time: 9.42794 seconds
+29/64 - Throughput: 212135 ops/sec
+42/64 - Performed a throughput benchmark:
+42/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+42/64 - Finds: 361474 (0.180737), Inserts: 1638526 (0.819263), Errors: 0 (0)
+42/64 - Execution time: 9.42613 seconds
+42/64 - Throughput: 212176 ops/sec
+49/64 - Performed a throughput benchmark:
+49/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+49/64 - Finds: 359817 (0.179908), Inserts: 1640183 (0.820091), Errors: 0 (0)
+49/64 - Execution time: 9.39341 seconds
+49/64 - Throughput: 212915 ops/sec
+35/64 - Performed a throughput benchmark:
+35/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+35/64 - Finds: 358077 (0.179038), Inserts: 1641923 (0.820962), Errors: 0 (0)
+35/64 - Execution time: 9.37202 seconds
+35/64 - Throughput: 213401 ops/sec
+46/64 - Performed a throughput benchmark:
+46/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+46/64 - Finds: 358597 (0.179298), Inserts: 1641403 (0.820701), Errors: 0 (0)
+46/64 - Execution time: 9.4046 seconds
+46/64 - Throughput: 212662 ops/sec
+40/64 - Performed a throughput benchmark:
+40/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+40/64 - Finds: 360355 (0.180177), Inserts: 1639645 (0.819823), Errors: 0 (0)
+40/64 - Execution time: 9.43007 seconds
+40/64 - Throughput: 212087 ops/sec
+41/64 - Performed a throughput benchmark:
+41/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+41/64 - Finds: 359901 (0.179951), Inserts: 1640099 (0.820049), Errors: 0 (0)
+41/64 - Execution time: 9.43038 seconds
+41/64 - Throughput: 212081 ops/sec
+26/64 - Performed a throughput benchmark:
+26/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+26/64 - Finds: 360679 (0.18034), Inserts: 1639321 (0.819661), Errors: 0 (0)
+26/64 - Execution time: 9.41491 seconds
+26/64 - Throughput: 212429 ops/sec
+27/64 - Performed a throughput benchmark:
+27/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+27/64 - Finds: 361616 (0.180808), Inserts: 1638384 (0.819192), Errors: 0 (0)
+27/64 - Execution time: 9.42805 seconds
+27/64 - Throughput: 212133 ops/sec
+47/64 - Performed a throughput benchmark:
+47/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+47/64 - Finds: 360854 (0.180427), Inserts: 1639146 (0.819573), Errors: 0 (0)
+47/64 - Execution time: 9.40854 seconds
+47/64 - Throughput: 212573 ops/sec
+28/64 - Performed a throughput benchmark:
+28/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+28/64 - Finds: 360677 (0.180339), Inserts: 1639323 (0.819662), Errors: 0 (0)
+28/64 - Execution time: 9.41997 seconds
+28/64 - Throughput: 212315 ops/sec
+24/64 - Performed a throughput benchmark:
+24/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+24/64 - Finds: 360738 (0.180369), Inserts: 1639262 (0.819631), Errors: 0 (0)
+24/64 - Execution time: 9.42522 seconds
+24/64 - Throughput: 212197 ops/sec
+20/64 - Performed a throughput benchmark:
+20/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+20/64 - Finds: 360651 (0.180325), Inserts: 1639349 (0.819674), Errors: 0 (0)
+20/64 - Execution time: 9.42141 seconds
+20/64 - Throughput: 212283 ops/sec
+43/64 - Performed a throughput benchmark:
+43/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+43/64 - Finds: 361802 (0.180901), Inserts: 1638198 (0.819099), Errors: 0 (0)
+43/64 - Execution time: 9.44952 seconds
+43/64 - Throughput: 211651 ops/sec
+19/64 - Performed a throughput benchmark:
+19/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+19/64 - Finds: 363546 (0.181773), Inserts: 1636454 (0.818227), Errors: 0 (0)
+19/64 - Execution time: 9.46989 seconds
+19/64 - Throughput: 211196 ops/sec
+37/64 - Performed a throughput benchmark:
+37/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+37/64 - Finds: 359835 (0.179918), Inserts: 1640165 (0.820083), Errors: 0 (0)
+37/64 - Execution time: 9.40943 seconds
+37/64 - Throughput: 212553 ops/sec
+18/64 - Performed a throughput benchmark:
+18/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+18/64 - Finds: 363168 (0.181584), Inserts: 1636832 (0.818416), Errors: 0 (0)
+18/64 - Execution time: 9.4687 seconds
+18/64 - Throughput: 211222 ops/sec
+5/64 - Performed a throughput benchmark:
+5/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+5/64 - Finds: 372030 (0.186015), Inserts: 1627970 (0.813985), Errors: 0 (0)
+5/64 - Execution time: 9.72768 seconds
+5/64 - Throughput: 205599 ops/sec
+4/64 - Performed a throughput benchmark:
+4/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+4/64 - Finds: 372951 (0.186475), Inserts: 1627049 (0.813524), Errors: 0 (0)
+4/64 - Execution time: 9.72924 seconds
+4/64 - Throughput: 205566 ops/sec
+9/64 - Performed a throughput benchmark:
+9/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+9/64 - Finds: 374704 (0.187352), Inserts: 1625296 (0.812648), Errors: 0 (0)
+9/64 - Execution time: 9.81185 seconds
+9/64 - Throughput: 203835 ops/sec
+10/64 - Performed a throughput benchmark:
+10/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+10/64 - Finds: 376183 (0.188091), Inserts: 1623817 (0.811909), Errors: 0 (0)
+10/64 - Execution time: 9.83393 seconds
+10/64 - Throughput: 203377 ops/sec
+8/64 - Performed a throughput benchmark:
+8/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+8/64 - Finds: 376774 (0.188387), Inserts: 1623226 (0.811613), Errors: 0 (0)
+8/64 - Execution time: 9.83733 seconds
+8/64 - Throughput: 203307 ops/sec
+12/64 - Performed a throughput benchmark:
+12/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+12/64 - Finds: 375163 (0.187582), Inserts: 1624837 (0.812419), Errors: 0 (0)
+12/64 - Execution time: 9.81285 seconds
+12/64 - Throughput: 203814 ops/sec
+17/64 - Performed a throughput benchmark:
+17/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+17/64 - Finds: 376606 (0.188303), Inserts: 1623394 (0.811697), Errors: 0 (0)
+17/64 - Execution time: 9.84079 seconds
+17/64 - Throughput: 203236 ops/sec
+13/64 - Performed a throughput benchmark:
+13/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+13/64 - Finds: 376166 (0.188083), Inserts: 1623834 (0.811917), Errors: 0 (0)
+13/64 - Execution time: 9.82102 seconds
+13/64 - Throughput: 203645 ops/sec
+16/64 - Performed a throughput benchmark:
+16/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+16/64 - Finds: 377281 (0.18864), Inserts: 1622719 (0.81136), Errors: 0 (0)
+16/64 - Execution time: 9.86345 seconds
+16/64 - Throughput: 202769 ops/sec
+2/64 - Performed a throughput benchmark:
+2/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+2/64 - Finds: 376672 (0.188336), Inserts: 1623328 (0.811664), Errors: 0 (0)
+2/64 - Execution time: 9.84771 seconds
+2/64 - Throughput: 203093 ops/sec
+3/64 - Performed a throughput benchmark:
+3/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+3/64 - Finds: 376733 (0.188366), Inserts: 1623267 (0.811634), Errors: 0 (0)
+3/64 - Execution time: 9.839 seconds
+3/64 - Throughput: 203273 ops/sec
+1/64 - Performed a throughput benchmark:
+1/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+1/64 - Finds: 375813 (0.187907), Inserts: 1624187 (0.812094), Errors: 0 (0)
+1/64 - Execution time: 9.8363 seconds
+1/64 - Throughput: 203329 ops/sec
+7/64 - Performed a throughput benchmark:
+7/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+7/64 - Finds: 377681 (0.18884), Inserts: 1622319 (0.81116), Errors: 0 (0)
+7/64 - Execution time: 9.8645 seconds
+7/64 - Throughput: 202747 ops/sec
+6/64 - Performed a throughput benchmark:
+6/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+6/64 - Finds: 377628 (0.188814), Inserts: 1622372 (0.811186), Errors: 0 (0)
+6/64 - Execution time: 9.86597 seconds
+6/64 - Throughput: 202717 ops/sec
+14/64 - Performed a throughput benchmark:
+14/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+14/64 - Finds: 378002 (0.189001), Inserts: 1621998 (0.810999), Errors: 0 (0)
+14/64 - Execution time: 9.86543 seconds
+14/64 - Throughput: 202728 ops/sec
+15/64 - Performed a throughput benchmark:
+15/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+15/64 - Finds: 376575 (0.188287), Inserts: 1623425 (0.811712), Errors: 0 (0)
+15/64 - Execution time: 9.85596 seconds
+15/64 - Throughput: 202923 ops/sec
+0/64 - Performed a throughput benchmark:
+0/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+0/64 - Finds: 376359 (0.188179), Inserts: 1623641 (0.81182), Errors: 0 (0)
+0/64 - Execution time: 9.84584 seconds
+0/64 - Throughput: 203131 ops/sec
+11/64 - Performed a throughput benchmark:
+11/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+11/64 - Finds: 379081 (0.189541), Inserts: 1620919 (0.810459), Errors: 0 (0)
+11/64 - Execution time: 9.90762 seconds
+11/64 - Throughput: 201865 ops/sec
+55/64 - Performed a throughput benchmark:
+55/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+55/64 - Finds: 417359 (0.208679), Inserts: 1582641 (0.79132), Errors: 0 (0)
+55/64 - Execution time: 11.1539 seconds
+55/64 - Throughput: 179310 ops/sec
+59/64 - Performed a throughput benchmark:
+59/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+59/64 - Finds: 417541 (0.20877), Inserts: 1582459 (0.79123), Errors: 0 (0)
+59/64 - Execution time: 11.1867 seconds
+59/64 - Throughput: 178784 ops/sec
+63/64 - Performed a throughput benchmark:
+63/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+63/64 - Finds: 417660 (0.20883), Inserts: 1582340 (0.79117), Errors: 0 (0)
+63/64 - Execution time: 11.1785 seconds
+63/64 - Throughput: 178914 ops/sec
+53/64 - Performed a throughput benchmark:
+53/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+53/64 - Finds: 420586 (0.210293), Inserts: 1579414 (0.789707), Errors: 0 (0)
+53/64 - Execution time: 11.2398 seconds
+53/64 - Throughput: 177939 ops/sec
+50/64 - Performed a throughput benchmark:
+50/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+50/64 - Finds: 419056 (0.209528), Inserts: 1580944 (0.790472), Errors: 0 (0)
+50/64 - Execution time: 11.2754 seconds
+50/64 - Throughput: 177377 ops/sec
+60/64 - Performed a throughput benchmark:
+60/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+60/64 - Finds: 421050 (0.210525), Inserts: 1578950 (0.789475), Errors: 0 (0)
+60/64 - Execution time: 11.3333 seconds
+60/64 - Throughput: 176471 ops/sec
+57/64 - Performed a throughput benchmark:
+57/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+57/64 - Finds: 421783 (0.210892), Inserts: 1578217 (0.789108), Errors: 0 (0)
+57/64 - Execution time: 11.3775 seconds
+57/64 - Throughput: 175785 ops/sec
+54/64 - Performed a throughput benchmark:
+54/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+54/64 - Finds: 422360 (0.21118), Inserts: 1577640 (0.78882), Errors: 0 (0)
+54/64 - Execution time: 11.3842 seconds
+54/64 - Throughput: 175683 ops/sec
+51/64 - Performed a throughput benchmark:
+51/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+51/64 - Finds: 421912 (0.210956), Inserts: 1578088 (0.789044), Errors: 0 (0)
+51/64 - Execution time: 11.3878 seconds
+51/64 - Throughput: 175627 ops/sec
+62/64 - Performed a throughput benchmark:
+62/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+62/64 - Finds: 422605 (0.211303), Inserts: 1577395 (0.788698), Errors: 0 (0)
+62/64 - Execution time: 11.4075 seconds
+62/64 - Throughput: 175323 ops/sec
+56/64 - Performed a throughput benchmark:
+56/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+56/64 - Finds: 424648 (0.212324), Inserts: 1575352 (0.787676), Errors: 0 (0)
+56/64 - Execution time: 11.4191 seconds
+56/64 - Throughput: 175145 ops/sec
+58/64 - Performed a throughput benchmark:
+58/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+58/64 - Finds: 424333 (0.212167), Inserts: 1575667 (0.787833), Errors: 0 (0)
+58/64 - Execution time: 11.4256 seconds
+58/64 - Throughput: 175045 ops/sec
+52/64 - Performed a throughput benchmark:
+52/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+52/64 - Finds: 425383 (0.212692), Inserts: 1574617 (0.787308), Errors: 0 (0)
+52/64 - Execution time: 11.4819 seconds
+52/64 - Throughput: 174188 ops/sec
+61/64 - Performed a throughput benchmark:
+61/64 - Performed 2000000 find-or-put operations with random values from [0,...,294399999]
+61/64 - Finds: 426611 (0.213306), Inserts: 1573389 (0.786694), Errors: 0 (0)
+61/64 - Execution time: 11.5503 seconds
+61/64 - Throughput: 173155 ops/sec
+[1447442928.178946] [node014:6521 :0]         sys.c:719  MXM  WARN  Conflicting CPU frequencies detected, using: 2928.19
